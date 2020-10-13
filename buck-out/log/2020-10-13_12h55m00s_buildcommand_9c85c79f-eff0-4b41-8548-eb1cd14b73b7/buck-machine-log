@@ -1,4 +1,0 @@
-InvocationInfo {"buildId":"9c85c79f-eff0-4b41-8548-eb1cd14b73b7","superConsoleEnabled":true,"isDaemon":false,"subCommand":"buildcommand","commandArgs":["build",":mfast"],"unexpandedCommandArgs":["build",":mfast"],"buckLogDir":"buck-out/log","isRemoteExecution":false,"repository":"","watchmanVersion":"","timestampMillis":1602593700576}
-BuildFinished {"timestampMillis":1602593700865}
-Cache.Stats {"cacheHitsPerMode":{"dir":0},"cacheErrorsPerMode":{"dir":0},"cacheBytesPerMode":{"dir":0},"totalCacheHits":0,"totalCacheErrors":0,"totalCacheMisses":0,"totalCacheIgnores":0,"totalCacheBytes":0,"totalCacheLocalKeyUnchangedHits":0,"successUploadCount":0,"failureUploadCount":0}
-ExitCode {"exitCode":5}

@@ -1,3 +1,0 @@
-[2020-10-13 20:54:48.979][debug][command:482e3a16-b7f9-4c4b-b602-4b642ad20a4a][tid:01][com.facebook.buck.event.listener.RenderingConsole] Starting render scheduler (interval 100 ms)
-[2020-10-13 20:54:48.987][debug][command:null][tid:19][com.facebook.buck.util.perf.ProcessTracker] startUp
-[2020-10-13 20:54:48.987][debug][command:null][tid:19][com.facebook.buck.util.perf.ProcessTracker] startUp
