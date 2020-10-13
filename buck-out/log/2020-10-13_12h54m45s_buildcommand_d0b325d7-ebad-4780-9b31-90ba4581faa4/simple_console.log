@@ -1,0 +1,6 @@
+[31mBUILD FAILED: No build file at BUCK when resolving target //:mfast.h.[0m
+DOWNLOADED 0 ARTIFACTS, 0.00 BYTES, 0.0% CACHE MISS
+BUILDING: FINISHED IN 0.0s
+
+Top slow rules: Buck didn't spend time in rules.
+BUILD FAILED

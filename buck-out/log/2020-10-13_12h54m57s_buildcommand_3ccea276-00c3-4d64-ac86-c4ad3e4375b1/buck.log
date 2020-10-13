@@ -1,0 +1,57 @@
+[2020-10-13 20:54:57.999][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.event.listener.RenderingConsole] Starting render scheduler (interval 100 ms)
+[2020-10-13 20:54:58.012][debug][command:null][tid:19][com.facebook.buck.util.perf.ProcessTracker] startUp
+[2020-10-13 20:54:58.012][debug][command:null][tid:19][com.facebook.buck.util.perf.ProcessTracker] startUp
+[2020-10-13 20:54:58.096][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.util.randomizedtrial.RandomizedTrial] Determined key: 'ailabdev@magnai/depsaware_executor/3ccea276-00c3-4d64-ac86-c4ad3e4375b1'
+[2020-10-13 20:54:58.104][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] InvocationInfo BuildId=[3ccea276-00c3-4d64-ac86-c4ad3e4375b1] Args=[build, :mfast.h]
+[2020-10-13 20:54:58.123][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.support.build.report.BuildReportUtils] Build report is not enabled
+[2020-10-13 20:54:58.153][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.support.build.report.BuildReportUtils] Build report is not enabled
+[2020-10-13 20:54:58.153][warn ][command:null][tid:24][com.facebook.buck.event.listener.PublicAnnouncementManager] Failed to get public announcements. Reason: Failed to establish connection to server.
+[2020-10-13 20:54:58.153][warn ][command:null][tid:24][com.facebook.buck.event.listener.PublicAnnouncementManager] Failed to get public announcements. Reason: Failed to establish connection to server.
+[2020-10-13 20:54:58.182][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:21][com.facebook.buck.event.listener.LoggingBuildListener] Build started at 2020-10-13 20:54:58.181
+[2020-10-13 20:54:58.211][warn ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.util.Console] Build failure: No build file at BUCK when resolving target //:mfast.h.
+[2020-10-13 20:54:58.212][warn ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.util.Console] Build failure: No build file at BUCK when resolving target //:mfast.h.
+[2020-10-13 20:54:58.212][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:21][com.facebook.buck.event.listener.LoggingBuildListener] Build finished at 2020-10-13 20:54:58.212
+[2020-10-13 20:54:58.220][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:21][com.facebook.buck.event.listener.AbstractConsoleEventBusListener] 
+Top slow rules: Buck didn't spend time in rules.
+[2020-10-13 20:54:58.221][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:21][com.facebook.buck.event.listener.CriticalPathEventListener] Received command finished event for command : build
+[2020-10-13 20:54:58.222][info ][command:null][tid:29][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:28][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:29][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:28][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:34][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:34][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:30][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:30][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:33][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:33][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:31][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:31][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:27][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:27][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:32][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.222][info ][command:null][tid:32][com.facebook.buck.core.graph.transformation.executor.impl.AbstractDepsAwareExecutor] Worker was interrupted
+[2020-10-13 20:54:58.225][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:19][com.facebook.buck.util.perf.ProcessTracker] shutDown
+[2020-10-13 20:54:58.226][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.event.listener.RenderingConsole] Stopping render scheduler
+[2020-10-13 20:54:58.226][debug][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.event.listener.RenderingConsole] Stopping render scheduler
+[2020-10-13 20:54:58.226][warn ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.event.listener.RenderingConsole] Stopping console output (stderr was dirty).
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of PROJECT executor service. Waiting for all jobs to complete, or up to maximum of 60 seconds...
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated PROJECT executor service.
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of NETWORK executor service. Waiting for all jobs to complete, or up to maximum of 60 seconds...
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated NETWORK executor service.
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of GRAPH_CPU executor service. Waiting for all jobs to complete, or up to maximum of 60 seconds...
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated GRAPH_CPU executor service.
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of CPU executor service. Waiting for all jobs to complete, or up to maximum of 60 seconds...
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated CPU executor service.
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of ScheduledExecutorService executor service. Waiting for all jobs to complete, or up to maximum of 60 seconds...
+[2020-10-13 20:54:58.227][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated ScheduledExecutorService executor service.
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of CounterAggregatorExecutor executor service. Waiting for all jobs to complete, or up to maximum of 20 seconds...
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated CounterAggregatorExecutor executor service.
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of HTTP Read executor service. Waiting for all jobs to complete, or up to maximum of 1800 seconds...
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated HTTP Read executor service.
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of HTTP Write executor service. Waiting for all jobs to complete, or up to maximum of 1800 seconds...
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated HTTP Write executor service.
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Awaiting termination of Disk IO executor service. Waiting for all jobs to complete, or up to maximum of 10 seconds...
+[2020-10-13 20:54:58.228][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Successfully terminated Disk IO executor service.
+[2020-10-13 20:54:58.230][info ][command:3ccea276-00c3-4d64-ac86-c4ad3e4375b1][tid:01][com.facebook.buck.cli.MainRunner] Auto fixing is not enabled for command build
+[2020-10-13 20:54:58.238][debug][command:null][tid:38][com.facebook.buck.event.listener.ChromeTraceBuildListener] Writing Chrome trace to buck-out/log/2020-10-13_12h54m57s_buildcommand_3ccea276-00c3-4d64-ac86-c4ad3e4375b1/build.2020-10-13.20-54-58.3ccea276-00c3-4d64-ac86-c4ad3e4375b1.trace
+[2020-10-13 20:54:58.241][debug][command:null][tid:01][com.facebook.buck.cli.MainRunner] Done.
